@@ -1,0 +1,7 @@
+If 'Right answer' text did't appears it meaning that your answer is not right 
+
+You should run this Game with "python3" command
+
+HAVE A NICE DAY :)
+
+CREATED BY BashaR X :)
